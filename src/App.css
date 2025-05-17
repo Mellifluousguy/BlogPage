@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+    font-family: "Rubik", sans-serif;
+    scroll-behavior: smooth;
+    transition: .2s ease-in-out all;
+}
+nav{
+    user-select: none;
+}
