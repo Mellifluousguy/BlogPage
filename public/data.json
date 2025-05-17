@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Streets of Kyoto",
+    "subtitle": "A cultural dive into Japan’s old capital",
+    "content": "Kyoto is a city where tradition meets serenity. From its ancient temples to local street food, this guide covers must-see spots for first-time visitors.",
+    "author": "Aarav Mishra",
+    "category": "Travel",
+    "tags": ["travel"],
+    "image": "https://thumbs.dreamstime.com/b/happy-travel-woman-vacation-concept-funny-traveler-enjoy-her-trip-ready-to-adventure-happy-travel-woman-vacation-concept-118679424.jpg",
+    "date": "2025-04-10",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 2,
+    "title": "5-Minute Morning Meditation Routine",
+    "subtitle": "Start your day with calm and clarity",
+    "content": "A short and effective breathing and visualization routine to reduce anxiety and increase productivity.",
+    "author": "Sanya Roy",
+    "category": "Lifestyle",
+    "tags": ["lifestyle"],
+    "image": "https://www.mrsindiaqueen.com/blog/uploads/images/2024/12/image_750x_676515e9295e5.jpg",
+    "date": "2025-03-25",
+    "readTime": "3 min"
+     
+  },
+  {
+    "id": 3,
+    "title": "The Art of Brewing the Perfect Cup of Coffee",
+    "subtitle": "Tips from a barista's diary",
+    "content": "Brewing coffee is more than a process; it's a craft. Explore techniques from grind size to water temperature.",
+    "author": "Karan Desai",
+    "category": "Food & Drink",
+    "tags": ["food", "lifestyle"],
+    "image": "https://cms.menutiger.com/wp-content/uploads/2024/02/white-wine-and-salmon-dish-on-the-table-1024x536.jpg",
+    "date": "2025-02-15",
+    "readTime": "4 min"
+     
+  },
+  {
+    "id": 4,
+    "title": "How to Style a Minimalist Wardrobe",
+    "subtitle": "Less is more – and here’s why",
+    "content": "Learn the essentials of building a capsule wardrobe that works year-round without cluttering your closet.",
+    "author": "Tanya Bedi",
+    "category": "Fashion",
+    "tags": ["fashion"],
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "2025-01-12",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 5,
+    "title": "A Beginner’s Guide to Houseplants",
+    "subtitle": "Green your space with ease",
+    "content": "Not all plants are fussy. Here’s how to keep your indoor garden thriving with low-maintenance greens.",
+    "author": "Ishaan Mehta",
+    "category": "Home Decor",
+    "tags": ["decor"],
+    "image": "https://media.istockphoto.com/id/1190440285/photo/eclectic-living-room-interior-with-comfortable-velvet-corner-sofa-with-pillows.jpg?s=612x612&w=0&k=20&c=T87OfLSfrChREiVaDLJA4LIM2qvrc7UaosmxH75RY98=",
+    "date": "2025-04-05",
+    "readTime": "4 min"
+     
+  },
+  {
+    "id": 6,
+    "title": "Top 5 Romantic Getaways in India",
+    "subtitle": "From beaches to mountains, destinations for every couple",
+    "content": "Whether it’s the serenity of Kashmir or the shores of Goa, explore destinations perfect for a romantic escape.",
+    "author": "Priya Nair",
+    "category": "Travel",
+    "tags": ["travel"],
+    "image": "https://www.travel-challenges.com/cdn/shop/articles/Blog_Photos_-_Travel_Challenges_15.jpg?v=1685615524&width=1024",
+    "date": "2025-02-28",
+    "readTime": "6 min"
+     
+  },
+  {
+    "id": 7,
+    "title": "10 Quick & Healthy Breakfast Ideas",
+    "subtitle": "No more skipping the most important meal",
+    "content": "Busy mornings? These breakfast ideas are nutritious, easy, and will keep you fueled through the day.",
+    "author": "Divya Sharma",
+    "category": "Food & Drink",
+    "tags": ["food", "lifestyle"],
+    "image": "https://st.depositphotos.com/1588534/4460/i/450/depositphotos_44608241-stock-photo-cheese-sausages-and-wine.jpg",
+    "date": "2025-03-11",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 8,
+    "title": "Watercolour for Beginners: Tools & Techniques",
+    "subtitle": "Everything you need to start painting today",
+    "content": "Explore the world of watercolor art, from basic brush strokes to layering and blending techniques.",
+    "author": "Ananya Dutta",
+    "category": "Art",
+    "tags": ["art"],
+    "image": "https://m.media-amazon.com/images/I/81DO2H9zhwL._AC_UF1000,1000_QL80_.jpg",
+    "date": "2025-01-20",
+    "readTime": "7 min"
+     
+  },
+  {
+    "id": 9,
+    "title": "Why You Should Start Journaling Today",
+    "subtitle": "Mental clarity in 5 minutes a day",
+    "content": "Journaling isn’t just for writers. It’s a powerful self-reflection tool that improves mental well-being.",
+    "author": "Neha Kapoor",
+    "category": "Wellness",
+    "tags": ["wellness"],
+    "image": "https://static.toiimg.com/thumb/imgsize-23456,msid-116885412,width-600,resizemode-4/wellness-travel.jpg",
+    "date": "2025-04-01",
+    "readTime": "3 min"
+     
+  },
+  {
+    "id": 10,
+    "title": "Decorating Small Spaces with Big Impact",
+    "subtitle": "Smart interior design tricks",
+    "content": "From mirrors to multi-functional furniture, these tips will help make your small home feel more spacious.",
+    "author": "Ritika Sinha",
+    "category": "Interior",
+    "tags": ["decor"],
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?cs=srgb&dl=pexels-fotoaibe-1571460.jpg&fm=jpg",
+    "date": "2025-03-05",
+    "readTime": "4 min"
+     
+  },
+  {
+    "id": 11,
+    "title": "A Weekend Guide to Parisian Cafés",
+    "subtitle": "Sip, stroll, and soak in the charm",
+    "content": "From Montmartre to the Latin Quarter, experience the café culture of Paris through its iconic pastries and street-side coffee shops.",
+    "author": "Aryan Malhotra",
+    "category": "Travel",
+    "tags": ["travel"],
+    "image": "https://t3.ftcdn.net/jpg/08/18/52/32/360_F_818523251_T67ETZ2Dx8YMq9aQKgTeRw4ok5mCaeou.jpg",
+    "date": "2025-04-12",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 12,
+    "title": "Simple DIY Crafts for Weekend Fun",
+    "subtitle": "Turn your junk into gems",
+    "content": "Fun and creative DIY project ideas using everyday household items. Great for families and kids.",
+    "author": "Kavya Jain",
+    "category": "DIY",
+    "tags": ["diy"],
+    "image": "https://plus.unsplash.com/premium_photo-1663054926730-6918de72e446?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGl5fGVufDB8fDB8fHww",
+    "date": "2025-03-20",
+    "readTime": "6 min"
+     
+  },
+  {
+    "id": 13,
+    "title": "The Secret to Fluffy Pancakes",
+    "subtitle": "Brunch goals made easy",
+    "content": "Discover simple ingredients and techniques to make perfectly fluffy pancakes every time.",
+    "author": "Nishita Mehra",
+    "category": "Food & Drink",
+    "tags": ["food"],
+    "image": "https://img.freepik.com/premium-photo/view-from-wooden-rustic-table-with-several-ingredients-cooking-filling-arepas_214787-338.jpg?semt=ais_hybrid&w=740",
+    "date": "2025-02-14",
+    "readTime": "3 min"
+     
+  },
+  {
+    "id": 14,
+    "title": "Must-Have Books for Creative Thinkers",
+    "subtitle": "Fuel your imagination with these reads",
+    "content": "A curated list of books that ignite creativity across various fields—from design to philosophy.",
+    "author": "Rhea Mukherjee",
+    "category": "Books",
+    "tags": ["art"],
+    "image": "https://media.istockphoto.com/id/2060984408/photo/stack-of-colorful-books-education-background-back-to-school-book-hardback-colorful-books-on.jpg?s=612x612&w=0&k=20&c=S-a-AjcVaONddGxfcfbNckme8H7ujSllz-MjgmcKrVQ=",
+    "date": "2025-01-30",
+    "readTime": "4 min"
+     
+  },
+  {
+    "id": 15,
+    "title": "Rainy Day Activities to Beat Boredom",
+    "subtitle": "Fun ways to enjoy indoors",
+    "content": "Board games, comfort food, cozy movies—this post has ideas to make rainy days better.",
+    "author": "Tanmay Rathi",
+    "category": "Lifestyle",
+    "tags": ["lifestyle"],
+    "image": "https://media.istockphoto.com/id/610864024/photo/couple-kayaking-together.jpg?s=612x612&w=0&k=20&c=zeioetaU5WM6uUnZAGoWBHnkilMeK1pexGX1ZitPU1o=",
+    "date": "2025-04-08",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 16,
+    "title": "Interior Color Schemes that Spark Joy",
+    "subtitle": "Psychology of colour in home design",
+    "content": "Colors can affect mood and space perception. Learn which tones to use for which room.",
+    "author": "Ritika Ahuja",
+    "category": "Interior",
+    "tags": ["decor"],
+    "image": "https://t3.ftcdn.net/jpg/03/73/51/06/360_F_373510690_cQQLplLNbi0l84A7sftZq8dSvdKOGCcj.jpg",
+    "date": "2025-02-27",
+    "readTime": "6 min"
+     
+  },
+  {
+    "id": 17,
+    "title": "Street Food Adventures in Bangkok",
+    "subtitle": "Spice, sizzle, and smiles",
+    "content": "A culinary journey through night markets, food stalls, and must-try Thai dishes.",
+    "author": "Rahul Sen",
+    "category": "Travel",
+    "tags": ["travel"],
+    "image": "https://img.freepik.com/premium-photo/travel-freedom-woman-photographer-nature-happy-relax-adventure-cityscape-background-smile-photography-girl-student-backpacking-sightseeing-solo-trip-south-africa_590464-151546.jpg?semt=ais_hybrid&w=740",
+    "date": "2025-03-18",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 18,
+    "title": "Budget-Friendly Home Office Setup",
+    "subtitle": "Work smart without breaking the bank",
+    "content": "Tips for creating an ergonomic, aesthetic, and productive work-from-home space on a budget.",
+    "author": "Ankit Tiwari",
+    "category": "Productivity",
+    "tags": ["lifestyle"],
+    "image": "https://www.activtrak.com/wp-content/uploads/2024/04/blog-header-benefits-of-increased-productivity-q224.jpg",
+    "date": "2025-01-18",
+    "readTime": "4 min"
+     
+  },
+  {
+    "id": 19,
+    "title": "How to Host a Perfect Picnic",
+    "subtitle": "Nature, food, and fun times",
+    "content": "Plan the ideal outdoor gathering with food ideas, games, and tips for setting the mood.",
+    "author": "Sonal Joshi",
+    "category": "Lifestyle",
+    "tags": ["lifestyle"],
+    "image": "https://www.pritikin.com/wp-content/uploads/2022/09/design-healthy-lifestyle.jpg",
+    "date": "2025-04-03",
+    "readTime": "5 min"
+     
+  },
+  {
+    "id": 20,
+    "title": "Creative Journaling: Beyond Daily Logs",
+    "subtitle": "Doodles, goals & mood trackers",
+    "content": "Take your bullet journal to the next level with these creative templates and ideas.",
+    "author": "Megha Shah",
+    "category": "Wellness",
+    "tags": ["wellness"],
+    "image": "https://i0.wp.com/krct.ac.in/blog/wp-content/uploads/2024/06/1-4.png?fit=760%2C486&ssl=1",
+    "date": "2025-03-28",
+    "readTime": "4 min"
+     
+  }
+]
