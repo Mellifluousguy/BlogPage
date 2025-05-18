@@ -10,10 +10,14 @@ MelBlog is a responsive and animated blog homepage built with **React** and **Fr
 - ✅ Sticky navbar with internal links
 - ✅ Responsive layout with Tailwind CSS
 
+# 🌐 Live Preview
+
+Check out the live demo: [MelBlog Live](https://blogpage-qcee.onrender.com/)
+
 ## 📸 Preview
 
 ![Hero Section](./public/Screenshot1.png)
-![Blog](./public/Screenshot1.png)
+![Blog](./public/Screenshot2.png)
 
 ## 🔧 Tech Stack
 
@@ -28,19 +32,22 @@ MelBlog is a responsive and animated blog homepage built with **React** and **Fr
 src/
 │
 ├── AllFiles/
+|   |── card.jsx
+│   ├── Footer.jsx
 │   ├── HeroSection.jsx
-│   ├── TopBlog.jsx
-│   └── Footer.jsx
+|   |── LatestBlog.jsx
+│   └── TopBlog.jsx
 ├── App.jsx
 ├── App.css
-└── index.js
+├── variants.js
+└── main.jsx
 ```
 
 ## 📌 Setup Instructions
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/melblog.git
+   git clone https://github.com/mellifluousguy/melblog.git
    ```
 2. Navigate to the project folder
    ```bash
@@ -70,12 +77,9 @@ src/
 
 - Mohit Gupta
 - 📧 mohitdeveloperg@gmail.com
-- 🔗 [LinkedIn](#)
-- 🐙 [GitHub](#)
+- 🔗 [LinkedIn](https://linked.com/in/mellilfuousguy)
+- 🐙 [GitHub](https://github.com/mellilfluousguy)
 
 ⭐ Star this repo if you like it. Pull requests are welcome!
 
 ---
-
-✅ You can edit project name, image path, or sections if required.  
-Let me know if you want a **Live Preview badge**, **GitHub Pages deploy guide**, or **GIF preview**!
