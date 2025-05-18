@@ -78,7 +78,7 @@ src/
 
 - Mohit Gupta
 - 📧 mohitdeveloperg@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/mellilfuousguy)
+- 🔗 [LinkedIn](https://linkedin.com/in/mellifluousguy)
 - 🐙 [GitHub](https://github.com/mellilfluousguy)
 
 ⭐ Star this repo if you like it. Pull requests are welcome!
