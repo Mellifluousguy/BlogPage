@@ -12,7 +12,7 @@ const card = ({ blog, index }) => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: true, amount: 0.7 }}
-            key={blog.title} className='flex py-4 relative flex-col  gap-1' >
+            key={blog.title} className='flex py-4 relative flex-col cursor-pointer  gap-1' >
             <img src={blog.image} alt={blog.title} className='w-80 shadow-lg h-48 object-cover rounded-xl' />
             <span className='text-sm text-gray-800'>{blog.readTime}</span>
             <h2 className='text-lg '>{blog.title}</h2>

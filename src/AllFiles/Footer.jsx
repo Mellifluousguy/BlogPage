@@ -6,8 +6,8 @@ const Footer = () => {
             <h1 className='col-span-2 text-5xl text-center border-r py-10 border-white !font-["Borel"] '>MelBlog</h1>
             <div className='flex-col border-r gap-6 border-white text-lg justify-evenly flex'>
                 <a href="#">Home</a>
-                <a href="top">Top Blog</a>
-                <a href="latest">Latest</a>
+                <a href="#top">Top Blog</a>
+                <a href="#latest">Latest</a>
             </div>
             <div className='flex-col border-r gap-6 border-white text-lg justify-evenly flex'>
                 <a href="#">FAQ</a>
