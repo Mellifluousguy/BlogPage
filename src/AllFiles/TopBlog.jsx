@@ -11,8 +11,8 @@ const TopBlog = () => {
                 <motion.div variants={fadeIn("right", 0.1)}
                     initial="hidden"
                     whileInView={"show"}
-                    viewport={{ once: true, amount: 0.7 }}  className='flex cursor-pointer flex-col col-span-2 gap-4'>
-                    <img src="https://www.asics.com/dw/image/v2/BBTN_PRD/on/demandware.static/-/Sites-asics-us-Library/default/dw9931ca9d/firstspirit/media/blog_images_12_1_21/asics_blog_hero_desktop_benefits_of_running_10621.jpg" className='w-full h-[450px] object-cover rounded-2xl shadow-md' loading='lazy' alt="image" />
+                    viewport={{ once: true, amount: 0.7 }} className='flex cursor-pointer flex-col col-span-2 gap-4'>
+                    <img src="https://www.asics.com/dw/image/v2/BBTN_PRD/on/demandware.static/-/Sites-asics-us-Library/default/dw9931ca9d/firstspirit/media/blog_images_12_1_21/asics_blog_hero_desktop_benefits_of_running_10621.jpg" className='hover:scale-105  w-full h-[450px] object-cover rounded-2xl shadow-md' loading='lazy' alt="image" />
                     <span className='text-gray-600'>3 min</span>
                     <div>
                         <h2 className='text-2xl'>5-Minute Morning Meditation Routine</h2>
@@ -35,7 +35,7 @@ const TopBlog = () => {
                         whileInView={"show"}
                         viewport={{ once: true, amount: 0.7 }}
                         className='flex flex-col cursor-pointer '>
-                        <img src="https://cms.menutiger.com/wp-content/uploads/2024/02/white-wine-and-salmon-dish-on-the-table-1024x536.jpg" className='w-full object-cover shadow-md h-[175px] rounded-2xl' loading='lazy' alt="image" />
+                        <img src="https://cms.menutiger.com/wp-content/uploads/2024/02/white-wine-and-salmon-dish-on-the-table-1024x536.jpg" className='w-full object-cover shadow-md h-[175px] hover:scale-105  rounded-2xl' loading='lazy' alt="image" />
                         <span className='text-gray-600'>4 min</span>
                         <div>
                             <h2 className='text-lg'>The Art of Brewing the Perfect Cup of Coffee</h2>
@@ -55,7 +55,7 @@ const TopBlog = () => {
                         whileInView={"show"}
                         viewport={{ once: true, amount: 0.7 }}
                         className='flex flex-col col-span-2 cursor-pointer'>
-                        <img src="https://thumbs.dreamstime.com/b/happy-travel-woman-vacation-concept-funny-traveler-enjoy-her-trip-ready-to-adventure-happy-travel-woman-vacation-concept-118679424.jpg" className='w-full object-cover h-[175px] rounded-2xl' loading='lazy' alt="image" />
+                        <img src="https://thumbs.dreamstime.com/b/happy-travel-woman-vacation-concept-funny-traveler-enjoy-her-trip-ready-to-adventure-happy-travel-woman-vacation-concept-118679424.jpg" className='hover:scale-105 w-full object-cover h-[175px] rounded-2xl' loading='lazy' alt="image" />
                         <span className='text-gray-600'>5 min</span>
                         <div>
                             <h2 className='text-lg'>Exploring the Streets of Kyoto</h2>
