@@ -17,6 +17,7 @@ Check out the live demo: [MelBlog Live](https://blogpage-qcee.onrender.com/)
 ## 📸 Preview
 
 ![Hero Section](./public/Screenshot1.png)
+
 ![Blog](./public/Screenshot2.png)
 
 ## 🔧 Tech Stack
@@ -77,7 +78,7 @@ src/
 
 - Mohit Gupta
 - 📧 mohitdeveloperg@gmail.com
-- 🔗 [LinkedIn](https://linked.com/in/mellilfuousguy)
+- 🔗 [LinkedIn](https://linkedin.com/in/mellilfuousguy)
 - 🐙 [GitHub](https://github.com/mellilfluousguy)
 
 ⭐ Star this repo if you like it. Pull requests are welcome!
