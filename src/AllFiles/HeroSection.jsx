@@ -9,15 +9,15 @@ const HeroSection = () => {
         <motion.h1 variants={fadeIn("up", 0.1)}
           initial="hidden"
           whileInView={"show"}
-          viewport={{ once: false, amount: 0.7 }} className='text-6xl !font-["Major_Mono_Display"]'>Your Daily Dose of Digital Wisdom</motion.h1>
+          viewport={{ once: true, amount: 0.7 }} className='text-6xl !font-["Major_Mono_Display"]'>Your Daily Dose of Digital Wisdom</motion.h1>
         <motion.h2 variants={fadeIn("up", 0.2)}
           initial="hidden"
           whileInView={"show"}
-          viewport={{ once: false, amount: 0.7 }} className='text-2xl'>Dive into ideas that inform, inspire, and ignite thought.</motion.h2>
+          viewport={{ once: true, amount: 0.7 }} className='text-2xl'>Dive into ideas that inform, inspire, and ignite thought.</motion.h2>
         <motion.a variants={fadeIn("up", 0.3)}
           initial="hidden"
           whileInView={"show"}
-          viewport={{ once: false, amount: 0.7 }} href="#top" className='border-white border rounded-md px-6 py-2 hover:bg-white hover:text-gray-900'>Start Reading</motion.a>
+          viewport={{ once: true, amount: 0.7 }} href="#top" className='border-white border rounded-md px-6 py-2 hover:bg-white hover:text-gray-900'>Start Reading</motion.a>
       </div>
       <img src="hero.webp" className='w-[55%] h-full object-cover' alt="" />
     </div>

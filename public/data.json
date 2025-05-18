@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "title": "The Art of Brewing the Perfect Cup of Coffee",
+    "title": "The Art of Brewing the Perfect Coffee",
     "subtitle": "Tips from a barista's diary",
     "content": "Brewing coffee is more than a process; it's a craft. Explore techniques from grind size to water temperature.",
     "author": "Karan Desai",
@@ -92,7 +92,7 @@
   },
   {
     "id": 8,
-    "title": "Watercolour for Beginners: Tools & Techniques",
+    "title": "Watercolour for Beginners",
     "subtitle": "Everything you need to start painting today",
     "content": "Explore the world of watercolor art, from basic brush strokes to layering and blending techniques.",
     "author": "Ananya Dutta",
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "title": "Why You Should Start Journaling Today",
+    "title": "Why You Should Start Journal Today",
     "subtitle": "Mental clarity in 5 minutes a day",
     "content": "Journaling isn’t just for writers. It’s a powerful self-reflection tool that improves mental well-being.",
     "author": "Neha Kapoor",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "title": "Decorating Small Spaces with Big Impact",
+    "title": "Decorating Small Spaces with Impact",
     "subtitle": "Smart interior design tricks",
     "content": "From mirrors to multi-functional furniture, these tips will help make your small home feel more spacious.",
     "author": "Ritika Sinha",
@@ -163,14 +163,14 @@
     "author": "Nishita Mehra",
     "category": "Food & Drink",
     "tags": ["food"],
-    "image": "https://img.freepik.com/premium-photo/view-from-wooden-rustic-table-with-several-ingredients-cooking-filling-arepas_214787-338.jpg?semt=ais_hybrid&w=740",
+    "image": "https://www.marthastewart.com/thmb/Vgb9cQSlegZz5fcoSbkkqyHPmHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/338185-basic-pancakes-09-00b18f8418fd4e52bb2050173d083d04.jpg",
     "date": "2025-02-14",
     "readTime": "3 min"
      
   },
   {
     "id": 14,
-    "title": "Must-Have Books for Creative Thinkers",
+    "title": "Must-Have Books for Creative Thinker",
     "subtitle": "Fuel your imagination with these reads",
     "content": "A curated list of books that ignite creativity across various fields—from design to philosophy.",
     "author": "Rhea Mukherjee",
@@ -248,7 +248,7 @@
   },
   {
     "id": 20,
-    "title": "Creative Journaling: Beyond Daily Logs",
+    "title": "Creative Journaling: Beyond Daily Log",
     "subtitle": "Doodles, goals & mood trackers",
     "content": "Take your bullet journal to the next level with these creative templates and ideas.",
     "author": "Megha Shah",
